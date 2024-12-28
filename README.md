@@ -37,11 +37,11 @@ solutions to puzzles in Vim Adventures
 - lolcat puzzle (16 key presses)
    - starting on 'W', `3x  ~  j  5~  5j  d4j  fC  2rG`
    - the key appears at the beginning of the puzzle, `6k` to go back up to get it
-   - go back up through the morse code puzzle, `3e  k  5f.`
+   - go back up through the morse code puzzle, `3e  k  5f.` or `3e k *`
    - starting on 's' of 'sum', go back through this puzzle, `2G`
    - go left to '.' of next puzzle
 - puzzle left of pink haired girl in bush (4 key presses)
-   - starting on '.', `16b` (probably not the best answer to this puzzle)
+   - starting on '.', `16b`
    - go up to puzzle with a whole lot of numbers (actually just one number, Pi, to a whole lot of decimal places)
 - Pi number puzzle (7 key presses)
    - start on '8', `9G  2f8  4k`, end on broken '5' tile
